@@ -1,0 +1,12 @@
+G:\git\cs-training\Design Pattern Tutorial\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+G:\git\cs-training\Design Pattern Tutorial\BuilderPattern\bin\Debug\BuilderPattern.exe
+G:\git\cs-training\Design Pattern Tutorial\BuilderPattern\bin\Debug\BuilderPattern.pdb
+G:\git\cs-training\Design Pattern Tutorial\BuilderPattern\obj\Debug\BuilderPattern.exe
+G:\git\cs-training\Design Pattern Tutorial\BuilderPattern\obj\Debug\BuilderPattern.pdb
+G:\git\cs-training\Design Pattern Tutorial\BuilderPattern\obj\Debug\BuilderPattern.csprojAssemblyReference.cache
+G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\BuilderPattern\obj\Debug\BuilderPattern.exe
+G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\BuilderPattern\obj\Debug\BuilderPattern.pdb
+G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe
+G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\BuilderPattern\bin\Debug\BuilderPattern.pdb

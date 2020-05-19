@@ -1,0 +1,12 @@
+G:\git\cs-training\Design Pattern Tutorial\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+G:\git\cs-training\Design Pattern Tutorial\FactoryPattern\bin\Debug\FactoryPattern.exe
+G:\git\cs-training\Design Pattern Tutorial\FactoryPattern\bin\Debug\FactoryPattern.pdb
+G:\git\cs-training\Design Pattern Tutorial\FactoryPattern\obj\Debug\FactoryPattern.csprojAssemblyReference.cache
+G:\git\cs-training\Design Pattern Tutorial\FactoryPattern\obj\Debug\FactoryPattern.exe
+G:\git\cs-training\Design Pattern Tutorial\FactoryPattern\obj\Debug\FactoryPattern.pdb
+G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\FactoryPattern\bin\Debug\FactoryPattern.exe
+G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\FactoryPattern\bin\Debug\FactoryPattern.pdb
+G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\FactoryPattern\obj\Debug\FactoryPattern.exe
+G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\FactoryPattern\obj\Debug\FactoryPattern.pdb
