@@ -10,3 +10,4 @@ G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\BuilderPattern
 G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe.config
 G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\BuilderPattern\bin\Debug\BuilderPattern.exe
 G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\BuilderPattern\bin\Debug\BuilderPattern.pdb
+G:\git\Design-Patterns\Design Pattern Tutorial\CreationalPatterns\BuilderPattern\obj\Debug\BuilderPattern.csprojAssemblyReference.cache
