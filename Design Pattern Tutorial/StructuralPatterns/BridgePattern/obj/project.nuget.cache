@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/R2w4mf8kFkcw4mILnM6dTLTfiQolOgRP8JfXGDuZV/yUqEnXb84lzE2K8K5JJfBWjYmbwmIf0bWruc4difu5g==",
+  "dgSpecHash": "ZeGRorhoQGsarppqgL6S6J7XwIlLeULv/SMODx2UKw09SaSNzFN0W7lWntmcUktPsfVUg2jPBPadjGmXxz/h0A==",
   "success": true,
   "projectFilePath": "G:\\git\\Design-Patterns\\Design Pattern Tutorial\\StructuralPatterns\\BridgePattern\\BridgePattern.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\shuvo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

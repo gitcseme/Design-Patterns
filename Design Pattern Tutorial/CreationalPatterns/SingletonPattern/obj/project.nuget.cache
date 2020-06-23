@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6QsEDgGUNH22Ds7fB+Zwvt5k2uztQbgjUdj1YK1zQo/MNatF6gGhzojgmIM9XpfnuOd4rWoFQRyJRRUMYhCt6w==",
+  "dgSpecHash": "I3piYdVK/oItMJz2sC/xr6Mf+/4Ry5n7yb2RRyrGcNoCniFwDS2eZOJKItEr0GHVI8Jc9ayKBWW/QPsm//Gt6w==",
   "success": true,
   "projectFilePath": "G:\\git\\Design-Patterns\\Design Pattern Tutorial\\CreationalPatterns\\SingletonPattern\\SingletonPattern.csproj",
   "expectedPackageFiles": [

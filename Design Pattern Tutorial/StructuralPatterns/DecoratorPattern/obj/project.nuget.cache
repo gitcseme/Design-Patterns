@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dRu6VgSkewvuBkMImzpPn54CqnaBlFvVmUnFPrGwMPvwZiFvkRJvjA/9GuFHal1T5xIWHWEAl2NeKFe0fvYPag==",
+  "dgSpecHash": "CqCluxRYPOYmFKzGm781jAxaFlcFsKpq7fK5yP4Mi7nPq1TVLQvv76rzrTUr3Vmm+F/vvn+LXnBkThNe80TSvw==",
   "success": true,
   "projectFilePath": "G:\\git\\Design-Patterns\\Design Pattern Tutorial\\StructuralPatterns\\DecoratorPattern\\DecoratorPattern.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\shuvo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

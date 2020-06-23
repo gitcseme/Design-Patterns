@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ScG4AvbaBKHFKUnKw48qkoXwVLDu3DnYHvmipQKTLzecps4fI+RI27fZbNVGj32BfzfZLGhZ6dejVZJHJor9mg==",
+  "dgSpecHash": "RvaFY1qxRF0WYF2I3bvBUsfayVLTE6hGdR2WFDnLwUv8CeLpT67wycDhVJOXkX5uhVhdsqpMArSvejNOoEUJeg==",
   "success": true,
   "projectFilePath": "G:\\git\\Design-Patterns\\Design Pattern Tutorial\\CreationalPatterns\\PrototypePattern\\PrototypePattern.csproj",
   "expectedPackageFiles": [

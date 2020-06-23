@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jPt87qCthhRpd4hzaltxnoTkMlQIVZbiYFzQYJl6UUDA6ivggfCrDIjTmb1oF06a+YEvrKmF+o+CPhEYej4MJQ==",
+  "dgSpecHash": "1nAcQAOtctVL+XGz2WI8zKU6dVPHZw/LLxQtF1UMuRxNiG+qlpNAo/aw3PARTOpdcBT1SfLaGQlE9TIQQq5THg==",
   "success": true,
   "projectFilePath": "G:\\git\\Design-Patterns\\Design Pattern Tutorial\\StructuralPatterns\\FlyweightPattern\\FlyweightPattern.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\shuvo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
