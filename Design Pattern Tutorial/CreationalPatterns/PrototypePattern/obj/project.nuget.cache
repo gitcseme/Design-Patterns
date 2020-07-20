@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RvaFY1qxRF0WYF2I3bvBUsfayVLTE6hGdR2WFDnLwUv8CeLpT67wycDhVJOXkX5uhVhdsqpMArSvejNOoEUJeg==",
+  "dgSpecHash": "Aue08+Uw50KkpC9lJsM2hwXUGfnAKFRaQ8kdeNRwM1zXE1l97FGtBWcDU4v4QAaG0NYQM3ucEnjZO62iJQhvHA==",
   "success": true,
   "projectFilePath": "G:\\git\\Design-Patterns\\Design Pattern Tutorial\\CreationalPatterns\\PrototypePattern\\PrototypePattern.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\shuvo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\shuvo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\shuvo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\shuvo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+    "C:\\Users\\Shuvo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Shuvo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Shuvo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Shuvo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }

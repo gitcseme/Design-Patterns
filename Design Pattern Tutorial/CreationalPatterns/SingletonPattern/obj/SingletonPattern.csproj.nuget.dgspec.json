@@ -10,11 +10,11 @@
         "projectUniqueName": "G:\\git\\Design-Patterns\\Design Pattern Tutorial\\CreationalPatterns\\SingletonPattern\\SingletonPattern.csproj",
         "projectName": "SingletonPattern",
         "projectPath": "G:\\git\\Design-Patterns\\Design Pattern Tutorial\\CreationalPatterns\\SingletonPattern\\SingletonPattern.csproj",
-        "packagesPath": "C:\\Users\\shuvo\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Shuvo\\.nuget\\packages\\",
         "outputPath": "G:\\git\\Design-Patterns\\Design Pattern Tutorial\\CreationalPatterns\\SingletonPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shuvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Shuvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -76,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

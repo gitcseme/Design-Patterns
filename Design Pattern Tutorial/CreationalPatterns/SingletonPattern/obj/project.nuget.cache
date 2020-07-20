@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "I3piYdVK/oItMJz2sC/xr6Mf+/4Ry5n7yb2RRyrGcNoCniFwDS2eZOJKItEr0GHVI8Jc9ayKBWW/QPsm//Gt6w==",
+  "dgSpecHash": "yBKDt5UPag10aYp3+IW0GwZ+feDqQC003RBimxmDxUGfKoXuJMFjXAaDxFDcW1Ss5R0qrywxtzcLJsSeVIKIig==",
   "success": true,
   "projectFilePath": "G:\\git\\Design-Patterns\\Design Pattern Tutorial\\CreationalPatterns\\SingletonPattern\\SingletonPattern.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\shuvo\\.nuget\\packages\\morelinq\\3.2.0\\morelinq.3.2.0.nupkg.sha512",
-    "C:\\Users\\shuvo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\shuvo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\shuvo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\shuvo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+    "C:\\Users\\Shuvo\\.nuget\\packages\\morelinq\\3.2.0\\morelinq.3.2.0.nupkg.sha512",
+    "C:\\Users\\Shuvo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Shuvo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Shuvo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Shuvo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }
